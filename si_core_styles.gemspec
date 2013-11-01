@@ -2,6 +2,8 @@
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'si_core_styles/version'
+require 'compass'
+require 'zen-grids'
 
 Gem::Specification.new do |spec|
   spec.name          = "si_core_styles"
