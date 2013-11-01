@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SiCoreStyles::VERSION
   spec.authors       = ["Paul Northup"]
   spec.email         = ["paul@paulnorthup.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "A core styleset for startup institute"
+  spec.summary       = "The core SI styles"
   spec.homepage      = ""
   spec.license       = "MIT"
 

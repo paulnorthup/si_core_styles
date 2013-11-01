@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'si_core_styles'
+gem "si_core_styles", :git => "git@github.com:paulnorthup/si_core_styles.git"
 
 And then execute:
 
